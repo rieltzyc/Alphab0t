@@ -1,6 +1,6 @@
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"msg_connected": false,
 	"user_register": false,
 	"anti_delete" : false,
@@ -9,13 +9,13 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumberr": "62887435047326",
-	"ownername": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-	"botname":"Alphabot",
+	"ownerNumberr": "6282146218274",
+	"ownername": "ᴹᴿ᭄ 𝙍𝙞𝙚𝙡-Ofcོ ×፝֟͜×",
+	"botname":"©𝙍𝙞𝙚𝙡𝙂𝙖𝙣𝙨",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
 	"donasi":"donasi.jpg",
-	"captionpay":"Scan untuk melakukan pembayaran",
-	"fake": " 「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+	"captionpay":" 𝙏𝙁 𝙋𝙐𝙇𝙎𝘼 𝘼𝙅𝘼 𝘽𝘼𝙉𝙂:𝙑",
+	"fake": " 「  𝐑𝐈𝐄𝐋𝐁𝐎𝐓  」\nCreated By ᴹᴿ᭄ 𝙍𝙞𝙚𝙡-Ofcོ ×፝֟͜×"
 }
